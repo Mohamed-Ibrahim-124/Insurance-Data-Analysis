@@ -61,7 +61,7 @@ This project provided valuable insights into financial and risk forecasting for 
 ## Contact
 For any questions or further information, please contact:
 - **Name**: Mohamed Ibrahim
-- **Email**: mohamed.ibrahim@example.com
+- **Email**: mohamedibrahim_124@outlook.com
 
 ---
 
